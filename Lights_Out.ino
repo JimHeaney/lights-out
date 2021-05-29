@@ -1,3 +1,8 @@
+//Lights Out!
+//By: Jim Heaney, www.jim-heaney.com
+//V1.1, May 2021
+//CC-BY-SA-NC 4.0
+
 //Pin Definitions
 //Columns - shared, anode
 const int C5 = 0;
