@@ -4,7 +4,7 @@
 This is my take on the classic game Lights Out, played on Cherry MX mechanical key switches. The goal of the game is, as the name implies, to turn off all the lights. Pressing a button will change its state, as well as all the lights around it. 
 
 ## Photos & Media
-Coming Soon
+https://www.jim-heaney.com/lights-out.html
 
 ## Current Release
 Version 1.1
